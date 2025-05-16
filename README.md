@@ -16,86 +16,11 @@ Here are some ideas to get you started:
 -->
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Abhiroop Chatterjee – Publications</title>
+
 
   
 
-    body {
-      margin: 0;
-      padding: 0;
-      font-family: 'Inter', sans-serif;
-      background-color: #0b0c10;
-      color: #ffffff;
-      line-height: 1.6;
-    }
-
-    header {
-      text-align: center;
-      padding: 3rem 1rem;
-      background-color: #1f2833;
-    }
-
-    header h1 {
-      margin: 0;
-      font-size: 2.5rem;
-    }
-
-    header p {
-      color: #c5c6c7;
-      font-size: 1.2rem;
-    }
-
-    section {
-      max-width: 800px;
-      margin: 2rem auto;
-      padding: 0 1rem;
-      text-align: justify;
-    }
-
-    h2 {
-      border-bottom: 1px solid #45a29e;
-      padding-bottom: 0.5rem;
-      color: #66fcf1;
-    }
-
-    .pub {
-      margin-bottom: 2rem;
-    }
-
-    .pub h3 {
-      margin: 0.2rem 0;
-    }
-
-    .pub a {
-      color: #66fcf1;
-      text-decoration: none;
-    }
-
-    .pub a:hover {
-      text-decoration: underline;
-    }
-
-    footer {
-      text-align: center;
-      padding: 2rem 1rem;
-      background-color: #1f2833;
-      color: #c5c6c7;
-    }
-
-    footer a {
-      color: #66fcf1;
-      text-decoration: none;
-    }
-
-    footer a:hover {
-      text-decoration: underline;
-    }
-  </style>
-</head>
-
+    
 <body>
   <header>
     <h1>Abhiroop Chatterjee</h1>
