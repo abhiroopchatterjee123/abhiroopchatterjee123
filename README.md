@@ -21,8 +21,7 @@ Here are some ideas to get you started:
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Abhiroop Chatterjee – Publications</title>
 
-  <style>
-    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+  
 
     body {
       margin: 0;
