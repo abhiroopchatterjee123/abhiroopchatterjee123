@@ -2,14 +2,13 @@
 # 👋 Hello and Welcome!
 
 ## I am **Abhiroop Chatterjee**,  
-### 🎓 Ph.D. Scholar at *Jadavpur University*
+### 🎓 Ph.D. Student at *Jadavpur University*
 
-My academic journey is enriched under the supervision of **Prof. Susmita Ghosh**,  
-whose insightful guidance and steady encouragement continue to shape my work.
+My academic journey is enriched under the supervision of **Prof. Susmita Ghosh** whose insightful guidance and steady encouragement continue to shape my work.
 
 ---
 
-### 🔗 [🌐 Visit My Website](https://abhiroopchatterjee123.github.io)
+###### 🔗 [🌐 Visit My Website](https://abhiroopchatterjee123.github.io)
 
 > *Explore my research, projects, and more.*
 
