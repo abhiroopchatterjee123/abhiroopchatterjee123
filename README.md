@@ -1,9 +1,11 @@
 
-HELLO!!
+👋 Hello and Welcome!
+I am Abhiroop Chatterjee, a dedicated researcher and Ph.D. Scholar at Jadavpur University. My academic journey is enriched under the supervision of Prof. Susmita Ghosh, whose insightful guidance and steady encouragement continue to shape my work.
 
-I am Abhiroop Chatterjee (Ph.D Scholar, Jadavpur University)
+🖥️ I invite you to explore my research, projects, and more through my personal website:
+👉 Click here to visit
 
-Please CLICK this link to check my website --> (https://abhiroopchatterjee123.github.io)
+Thank you for visiting!
 <!--
 **abhiroopchatterjee123/abhiroopchatterjee123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
